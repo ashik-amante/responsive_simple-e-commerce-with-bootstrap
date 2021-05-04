@@ -1,0 +1,40 @@
+.logo{
+    height: 70px;
+    width: 300px;
+}
+.bg-image{
+    background-image: url(Shoes/Photos/Group%2033092.png);
+    background-repeat: no-repeat;
+    height: 500px;
+    background-size: 450px 450px;
+    
+    
+}
+.img{
+    height: 400px;
+    width: 100%;
+}
+.cntr{
+ margin-top: 100px;
+margin-bottom: 50px;
+}
+.icon{
+    height: 80px;
+    width: 80px;
+   
+}
+.orange-color{
+    color: FA804C;
+}
+.ftr{
+   border: 0px;
+}
+.crd-pic{
+    background-color: lightgrey;
+    border-radius: 10px;
+        
+    
+}
+.stp{
+    border: 0px;
+}
