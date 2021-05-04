@@ -2,11 +2,9 @@
     height: 70px;
     width: 300px;
 }
-.bg-image{
-    background-image: url(Shoes/Photos/Group%2033092.png);
-    background-repeat: no-repeat;
-    height: 500px;
-    background-size: 450px 450px;
+.bg-image {
+   width: 90%;
+    height: 400px;
     
     
 }
